@@ -1,3 +1,5 @@
+![desktop_example.png](desktop_example.png)
+
 # Project Where Am I
 
 Project #3: Where Am I /src files.
